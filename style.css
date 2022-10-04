@@ -16,7 +16,7 @@
 }
 
 *::selection{
-    background:var(--pink);
+    background:/*var(--pink)*/ #FF9899;
     color:#fff;
 }
 .fa-paper-plane{
